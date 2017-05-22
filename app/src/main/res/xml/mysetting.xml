@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:title="delete favorite"
+        android:key="delete_favorite"
+        >
+    </Preference>
+
+    <Preference
+        android:title="MILES OR MK"
+        android:key="distane"
+        >
+    </Preference>
+
+
+    <!--  this is a button that later we will catch from java and set onclick listener -->
+    <Preference
+        android:title="exit settings"
+        android:key="finish"
+        >
+    </Preference>
+</PreferenceScreen>

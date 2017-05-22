@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AddFavoritePPItem"
+        android:title="@string/popupmenu" />
+    <item
+        android:id="@+id/SharedPlacePPItem"
+        android:title="@string/sharemenu" />
+</menu>

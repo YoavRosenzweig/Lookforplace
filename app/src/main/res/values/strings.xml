@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lookforplace</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Etfrgmenta">What are you interested in</string>
+    <string name="Chfrgmenta">next to me</string>
+    <string name="btngragmenta">Start  to search</string>
+    <string name="settingmemu">setting</string>
+    <string name="favoritemenu">go to favorite</string>
+    <string name="popupmenu">save to favorite</string>
+    <string name="sharemenu">share intent</string>
+</resources>
